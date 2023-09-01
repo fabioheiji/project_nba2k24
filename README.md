@@ -1,1 +1,1 @@
-# Web scraping over the nba 2k24 ratings
+# Web scraping by the nba 2k24 ratings
